@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		29216FDF1D19535F00104A64 /* textKit.png in Resources */ = {isa = PBXBuildFile; fileRef = 29216FDE1D19535F00104A64 /* textKit.png */; };
 		299E900A1D18393900DFE180 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 299E90091D18393900DFE180 /* AppDelegate.swift */; };
 		299E900C1D18393900DFE180 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 299E900B1D18393900DFE180 /* ViewController.swift */; };
 		299E900F1D18393900DFE180 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 299E900D1D18393900DFE180 /* Main.storyboard */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		29216FDE1D19535F00104A64 /* textKit.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = textKit.png; sourceTree = "<group>"; };
 		299E90061D18393900DFE180 /* TextKit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TextKit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		299E90091D18393900DFE180 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		299E900B1D18393900DFE180 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				299E900B1D18393900DFE180 /* ViewController.swift */,
 				299E903A1D1839F500DFE180 /* YLLabel.swift */,
 				299E900D1D18393900DFE180 /* Main.storyboard */,
+				29216FDE1D19535F00104A64 /* textKit.png */,
 				299E90131D18393900DFE180 /* Assets.xcassets */,
 				299E90151D18393900DFE180 /* LaunchScreen.storyboard */,
 				299E90181D18393900DFE180 /* Info.plist */,
@@ -238,6 +241,7 @@
 				299E90171D18393900DFE180 /* LaunchScreen.storyboard in Resources */,
 				299E90141D18393900DFE180 /* Assets.xcassets in Resources */,
 				299E900F1D18393900DFE180 /* Main.storyboard in Resources */,
+				29216FDF1D19535F00104A64 /* textKit.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -490,6 +494,7 @@
 				299E90331D18393900DFE180 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		299E90341D18393900DFE180 /* Build configuration list for PBXNativeTarget "TextKitTests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +503,7 @@
 				299E90361D18393900DFE180 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		299E90371D18393900DFE180 /* Build configuration list for PBXNativeTarget "TextKitUITests" */ = {
 			isa = XCConfigurationList;
@@ -506,6 +512,7 @@
 				299E90391D18393900DFE180 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
